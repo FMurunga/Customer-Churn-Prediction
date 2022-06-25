@@ -5,13 +5,13 @@
  Dataset: Telco_customer_churn.xslx from Kaggle(Datasource)
  <h2>Brief Overview</h2>
 This is an Exploratory Data Analysis and a prediction machine learning project using python based on customer information and services provided to customers 
-by a Fictional Telecommunications Company named 'Telco'. The dataset was obtained from Kaggle.This project at performingg data analysis to identify trends and partterns on the data and training machin learning models to predict Customer Churn from the Company. Random Forest was the best performed model with an acccuracy of 92%.
+by a Fictional Telecommunications Company named 'Telco'. The dataset was obtained from Kaggle.This project at performingg data analysis to identify trends and partterns on the data and training machin learning models to predict Customer Churn from the Company. Random Forest was the best performed model with an acccuracy of 90.22%.
 <h3>Processes Involved</h3>
 <ol>
   <li> Data Cleaning</li>
   <li> Exploratory data analysi</li>
   <li> Data visualization</li>
-  <li> Building and training ML models for prrediction</li>
+  <li> Building and training ML models for prediction</li>
   </ol>
 <h2>ML Algorithms Used</h2>
 <ul>
@@ -34,9 +34,9 @@ by a Fictional Telecommunications Company named 'Telco'. The dataset was obtaine
 <img src="https://user-images.githubusercontent.com/20658442/175785788-ca0e3383-5b0f-448e-9274-5082e7fdf5d7.png"></img>
 <br/>
 <b> Customer Account Information Exploration: explore customer tenure and contracts</b>
-<h5>Customer tenure>
+<h5>Customer tenure</h5>
 <img src="https://user-images.githubusercontent.com/20658442/175785861-07c0cd0e-02d7-4451-909e-5c60088f56c4.png"</img>
- <h5>Customer Contracts>
+ <h5>Customer Contracts</h5>
  <img src="https://user-images.githubusercontent.com/20658442/175785912-2bb3430b-e8ec-40a1-b807-7934e605b953.png"></img>
 <img src="https://user-images.githubusercontent.com/20658442/175785964-ab5b5d27-2f18-4e2f-a0c3-b33de652ac1b.png"></img>
 <h5>Payment Methods</h5>
