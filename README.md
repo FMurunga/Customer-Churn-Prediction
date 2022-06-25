@@ -1,4 +1,4 @@
-<h1>Customer-Churn-Prediction</h1>
+<h1>Telecom Customer Churn Prediction</h1>
   Customer Churn is rate at which customers stop using services offered by a company</br>
  Dataset: Telco_customer_churn.xslx from Kaggle(Datasource)
  <h2>Brief Overview</h2>
