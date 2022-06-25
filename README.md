@@ -17,3 +17,6 @@ by a Fictional Telecommunications Company named 'Telco'. The dataset was obtaine
   <li>Random Forest</li>
   <li>Linear Regression</li
 </ul>
+    <h2>Exploratory Data Analysis</h2>
+    <h3>Customer Demographics Analysis</h3>
+<img src = "https://user-images.githubusercontent.com/20658442/175783552-b4f14f58-f24e-45d7-8ca6-04ee6e43eefd.png"> </img>
